@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Ciência da Computação na FAESA e estou em plena transição de carreira para a área de desenvolvimento de software. Atualmente, foco meus estudos e práticas em construir soluções robustas e escaláveis, buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
+Sou estudante de Ciência da Computação na FAESA e estou em plena transição de carreira para a área de desenvolvimento de software. Atualmente, foco meus estudos e práticas em construir soluções robustas e escaláveis, buscando minha primeira oportunidade como Desenvolvedor Júnior.
 
 
 ## 🌐 Socials:
